@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/47246760/204261234-fe644202-fdd3-493f-9979-5975c1cb9f7a.png" width="870" />
+  <img src="https://user-images.githubusercontent.com/47246760/204261234-fe644202-fdd3-493f-9979-5975c1cb9f7a.png" width="850" />
 </p>
 <!-- ![image](https://user-images.githubusercontent.com/47246760/204261234-fe644202-fdd3-493f-9979-5975c1cb9f7a.png) -->
 
-![Ald's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldalddl&show_icons=true&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldalddl&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Ald's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldalddl&show_icons=true&theme=swift&hide_rank=true&card_width=450px)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldalddl&layout=donut)](https://github.com/anuraghazra/github-readme-stats&card_width=450px)
